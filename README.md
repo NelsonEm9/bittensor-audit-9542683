@@ -2,6 +2,8 @@
 
 This repository contains on-chain data snapshots, ledger records, and verification logs supporting a multi-part audit of the Bittensor network.
 
+ => <a href="https://token-metrics.beehiiv.com/p/we-audited-all-128-bittensor-subnets-here-is-what-the-data-shows">READ FULL 128-SUBNET FORENSIC AUDIT REPORT</a>
+
 ## Audit Metadata
 
 | Metric | Value |
